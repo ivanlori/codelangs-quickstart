@@ -1,4 +1,4 @@
-# Programming Languages Quickstart Guide
+# Codelangs Quickstart Guide
 
 A comprehensive collection of quickstart guides for various programming languages. Each section provides essential syntax, concepts, and examples to help you get up and running quickly with different programming languages.
 
