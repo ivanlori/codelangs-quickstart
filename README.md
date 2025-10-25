@@ -8,7 +8,7 @@ A comprehensive collection of quickstart guides for various programming language
 
 - [JavaScript](#javascript)
 - [Python](#python)
-- [C++](#c++)
+- [C++](#c)
 
 ### JavaScript Sections
 
